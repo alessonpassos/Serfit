@@ -2921,7 +2921,7 @@ html {
 .empty p,
 .detail-list,
 .modal > p {
-  font-size: 1rem;
+font-size: 1rem;
 }
 .stat-card > small,
 .table-person small,
@@ -2933,5 +2933,5 @@ html {
 .dashboard-footer,
 .table-secondary,
 .hero-index {
-  font-size: .8125rem;
+font-size: .8125rem;
 }
