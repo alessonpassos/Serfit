@@ -4,6 +4,7 @@ import { mkdtempSync, rmSync } from "node:fs";
 import { join } from "node:path";
 import { createApp } from "../server/app.js";
 import { createDatabase } from "../server/database.js";
+
 const password = "SerFit2026!";
 async function fixture(t, options = {}) {
   const { app, db } = createApp({ path: ":memory:", seed: true, ...options });
