@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+server/data/
+.sites-runtime/
+*.log
+coverage/
+.env.local
+.env.*.local
+backups/
+src/
