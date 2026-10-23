@@ -7,5 +7,3 @@ server/data/
 coverage/
 .env.local
 .env.*.local
-backups/
-src/
